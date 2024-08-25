@@ -9,13 +9,17 @@ function DisplayName() {
    
     
     return (
-<center>
+<div className="flex flex-col items-center ">
+   <div>
 <img className="h-50 w-50 " src={bannerImage} alt="" />
-   <p className="text-4xl font-bold text-gray-700 capitalize bg-gray-200 py-2">
+</div>
+<div >
+   <p className="text-4xl font-bold text-gray-700 capitalize bg-slate-200 py-2 px-5 shadow-lg border-slate-900">
  {name[0].name}
    </p>
-   <p className="box-border p-4 text-2xl font-underline"> {name[0].meaning}</p>
-   </center>
+   </div>
+   <p className="box-border p-4 text-xl italic line-clamp-3 text-teal-950 font-underline font-sans"> {name[0].meaning}</p>
+   </div>
     );
   }
   
