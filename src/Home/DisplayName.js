@@ -30,7 +30,7 @@ function DisplayName() {
   
    </div>
    
-   <div className="flex flex-col items-end bg-white h-50 ">
+   <div className="flex flex-col items-end bg-white ">
    <img className="h-20 p-3 bg-white mb-9" src={matkiImage} alt=""  />
    
    
