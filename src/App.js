@@ -1,20 +1,19 @@
 
 import './App.css';
-import names from "./krishnaNames.json"
+
+import { Route, Routes } from 'react-router-dom';
+import Home from './Home/Home';
+import DisplayName from './Home/DisplayName';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-         Name: {names[0].name}
-        </p>
-        <p>
-        Meaning :  {names[0].meaning}
-        </p>
-        
-      </header>
-    </div>
+   <Routes>
+    <Route path='/' element={<Home/>}/>
+    <Route path='/:id' element={<DisplayName/>}/>
+    
+   </Routes>
   );
 }
 
