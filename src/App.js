@@ -1,22 +1,18 @@
-import logo from './logo.svg';
+
 import './App.css';
+import names from "./krishnaNames.json"
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         Name: {names[0].name}
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+        Meaning :  {names[0].meaning}
+        </p>
+        
       </header>
     </div>
   );
