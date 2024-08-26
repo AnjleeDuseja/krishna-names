@@ -27,7 +27,8 @@
 }, {
    
     "name":"Suresh" ,
-    "meaning":"The lord of gods."
+    "meaning":"The lord of gods.",
+    "sindhi":"سر: ديـوتـا؛ ايـش: اِيـسور= ديـوتـائُـن جو اِيـسور"
    
 
 }, {
@@ -109,7 +110,8 @@
 }, {
    
     "name":"Achyut" ,
-    "meaning":"The infallible one."
+    "meaning":"The infallible one.",
+    "sindhi":"ڀِـرانـتِيءَ ۽ ڀـرم کي دوُر ڪرڻ وارو "
    
 
 }, {
@@ -307,7 +309,65 @@
     "meaning":"The compassionate one."
    
 
+},
+
+{
+   
+    "name":"Sarpana" ,
+    "meaning":"The one who surrenders to all (or causes surrender)."
+   
+
+},
+{
+    "name":"Sagar",
+    "meaning":"The ocean, symbolizing vastness."
+},
+{
+    "name":"Mohan",
+    "meaning":"The enchanter."
+},
+{
+    "name":"Suryakant",
+    "meaning":"The beloved of the sun."
+},
+{
+    "name":"Mohan",
+    "meaning":"The enchanter."
+},
+{
+    "name":"Neelmani",
+    "meaning":"The blue jewel."
+},
+{
+    "name":"Purushottam",
+    "meaning":"The supreme being or the best among men."
+},
+{
+    "name":"Mukund",
+    "meaning":"The giver of liberation."
+},
+{
+    "name":"Amrit",
+    "meaning":"The immortal one.",
+    "sindhi":"مرتِـيوُ کي ٽـارڻ وارو"
+},{
+    "name":"Govind",
+    "meaning":"The protector of cows and the senses."
+},{
+    "name":"Man Haran",
+    "meaning":"The stealer of hearts."
+},
+{
+    "name":"Lajpal",
+    "meaning":" The giver of life."
+},{
+    "name":"Prandata",
+    "meaning":"The giver of life."
+},{
+    "name":"Ranchod",
+    "meaning":"The one who left the battlefield (as part of a divine strategy)."
 }
+  
     ]
 
 
@@ -315,6 +375,7 @@
 
 
  
+
 
 
 
