@@ -12,6 +12,15 @@ function DisplayName() {
     function isName(dataName) {
       return dataName.name === id;
     }
+
+    // function generateLinks(){
+    //   const LinkArr=data.names.map((ele)=>{return "https://krishna-name.vercel.app/"+ele.name});
+    //   console.log(LinkArr)
+    // }
+    
+    // generateLinks();
+
+    
     const name=data.names.find(isName)
    
     
