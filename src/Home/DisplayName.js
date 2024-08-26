@@ -37,7 +37,7 @@ function DisplayName() {
  {name.name}
    </p>
    </div>
-   <p className="box-border p-4 text-xl italic line-clamp-3 text-teal-950 font-underline font-sans "> {name.meaning}</p>
+   <p className="box-border p-4 my-4 text-xl italic line-clamp-3 text-teal-950 font-underline font-sans "> {name.meaning}</p>
   
    </div>
    
