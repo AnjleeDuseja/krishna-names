@@ -46,7 +46,7 @@ const names=["Achala","Achyuta", "Adbhutah","Adideva","Aditya","Ajanma","Ajaya",
 
 console.log(names.map(n=>"https://krishna-name.vercel.app/"+n))
   return (
-  <p className="text-4xl font-bold underline">Hello Anjlee!</p>
+  <p className="text-4xl font-bold underline">Happy Janamashtmi!</p>
   );
 }
 
