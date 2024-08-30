@@ -19,7 +19,7 @@ function DisplayName() {
 
     }
     
-    generateLinks();
+    // generateLinks();
 
 
 
@@ -58,14 +58,3 @@ function DisplayName() {
 
 
 
-
-// 61. Priyakant  The beloved one.
-// 62. Sarvdata  The giver of everything.
-// 63. Chakradhar  The bearer of the discus (Sudarshan Chakra).
-// 64. Kans Sudhan  The slayer of Kansa.
-// 65. Nandanandan  The son of Nanda.
-// 66. Jagatpita  The father of the universe.
-// 67. Parthasarathi  The charioteer of Arjuna (Partha).
-// 68. Abhay  The fearless one.
-// 69. Vaman  The dwarf incarnation (Vamana avatar).
-// 70. Sarvanand  The source of all bliss.
